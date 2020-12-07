@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "0b3237-88be-852f-7b2f-8d306b7a4678",
+      "name": "Mehmet",
+      "salary": 150,
+      "department": "Bilişim"
+    },
+    {
+      "name": "Hasan",
+      "salary": "234",
+      "department": "Operasyon3",
+      "id": "0b3237-88be-852f-7b2f-8d306b7a4f6c"
+    },
+    {
+      "id": "3a3ddc-e11-5f7-15dd-75cf6715705",
+      "name": "Kemal",
+      "salary": "323",
+      "department": "bbbbb"
+    },
+    {
+      "id": "06a615-c5e5-7784-2a05-5c0eae1c",
+      "name": "Osman",
+      "salary": "500",
+      "department": "Analist"
+    },
+    {
+      "id": "71b7be-d86a-6a76-a64-6bd86cd4f2a3",
+      "name": "aaa",
+      "salary": "111",
+      "department": "aaa"
+    },
+    {
+      "id": "ba8fab-cec2-3c6f-5eb-fb5fa4bea47",
+      "name": "aaa",
+      "salary": "234",
+      "department": "aaa"
+    },
+    {
+      "id": "4dec2b-5cde-2fe2-fa57-a02b846b05c3",
+      "name": "sdf",
+      "salary": "asdf",
+      "department": ""
+    },
+    {
+      "id": "57e5844-dad3-7816-6518-eaf1c68178d1",
+      "name": "sdfggggg",
+      "salary": "222222",
+      "department": "gggggg"
+    }
+  ]
+}
